@@ -1,5 +1,34 @@
-site_name: My Docs
+site_name: 张奕庆的个人网站
 theme:
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.top
+    - search.highlight
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.path
   name: material
+  language: zh
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+nav:
+  - 关于我: 
+    - 个人简介: Me/introduction.md
+    - 教育经历: Me/education.md
+    - 外语能力: Me/language.md
+  - 电影: movie.md
 plugins:
   - blog
+  - search
+copyright: Copyright &copy; 2024 - 2024 张奕庆
