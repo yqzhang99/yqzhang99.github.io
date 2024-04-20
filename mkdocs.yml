@@ -8,6 +8,8 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - navigation.path
+    - navigation.expand
+
   name: material
   language: zh
   palette: 
@@ -23,12 +25,23 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 nav:
-  - 关于我: 
+  - 我: 
     - 个人简介: Me/introduction.md
     - 教育经历: Me/education.md
     - 外语能力: Me/language.md
-  - 电影: movie.md
+  - 电影: Movie/movie.md
+  - 旅行: Travel/travel.md
+  - 偶像: Idol/Idol.md
+  - 游戏:
+    - 关于游戏: Game/game.md
+    - 白金游戏点评:
+      - 极品飞车(2015): Game/NFS/NFS.md
+  - 日志: maintenance.md
 plugins:
   - blog
   - search
+  - glightbox
+markdown_extensions:
+  - attr_list
+  - md_in_html
 copyright: Copyright &copy; 2024 - 2024 张奕庆
