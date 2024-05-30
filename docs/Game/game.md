@@ -10,9 +10,9 @@
         - PlayStation VR2 日行
     - Xbox Series S 512 GB 日行
     - Nintendo Switch 长续航 国行
-    - Nintendo Switch Lite 日行
 
 - 掌机
+    - Nintendo Switch Lite 日行
     - Steam Deck OLED版本 512GB
 
 ### 退役
@@ -39,7 +39,9 @@
 - 16 (2024/4/20)
 ### 进度（达成时间）
 - 极品飞车 (2017.6.27)
+![image](NFS/nfs.png){ width="750" }
 - 方根书简 (2017.8.1)
+![image](RL/rl1.png){ width="750" }
 - 底特律：变人 (2019.7.15)
 - AI：梦境档案 (2020.1.21)
 - 最后生还者 第II章 (2020.10.5)
