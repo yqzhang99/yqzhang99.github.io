@@ -29,12 +29,20 @@ nav:
     - 个人简介: Me/introduction.md
     - 教育经历: Me/education.md
     - 外语能力: Me/language.md
-  - 电影: Movie/movie.md
-  - 旅行: Travel/travel.md
+  - 电影: 
+    - 关于电影: Movie/movie.md
+  - 旅行: 
+    - 关于旅行: Travel/travel.md
+    - 日本印象: 
+      - 大阪: Travel/osaka.md
+    - 日本游推荐:
+      - 值得专程造访: Travel/3star.md
+      - 值得绕道前往: Travel/2star.md
+      - 值得驻足: Travel/1star.md
   - 偶像: Idol/Idol.md
   - 游戏:
     - 关于游戏: Game/game.md
-    - 游戏评价:
+    # - 游戏评价:
     #  - 极品飞车(2015): Game/NFS/NFS.md
   - 日志: maintenance.md
 plugins:
