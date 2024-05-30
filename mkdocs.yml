@@ -34,8 +34,8 @@ nav:
   - 偶像: Idol/Idol.md
   - 游戏:
     - 关于游戏: Game/game.md
-    - 白金游戏点评:
-      - 极品飞车(2015): Game/NFS/NFS.md
+    - 游戏评价:
+    #  - 极品飞车(2015): Game/NFS/NFS.md
   - 日志: maintenance.md
 plugins:
   - blog
