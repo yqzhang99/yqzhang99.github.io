@@ -45,6 +45,7 @@ nav:
     # - 游戏评价:
     #  - 极品飞车(2015): Game/NFS/NFS.md
   - 日志: maintenance.md
+  - 鸣谢: thank.md
 plugins:
   - blog
   - search

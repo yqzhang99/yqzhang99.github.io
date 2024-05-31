@@ -1,16 +1,19 @@
 ## 游戏平台
 ### Steam
-[![Steam Card](https://card.yuy1n.io/card/76561198236880648/solarized-light,en,badge,group,badges,games,reviews)](https://steamcommunity.com/id/1742353669/)
+[![Steam Card](https://card.exophase.com/1/3048822.png)](https://steamcommunity.com/id/1742353669/)
 
 ### PlayStation
-[![PSN Card](https://card.psnprofiles.com/1/d147anny.png)](https://psnprofiles.com/d147anny)
+[![PSN Card](https://card.exophase.com/1/3048815.png)](https://www.exophase.com/psn/user/d147anny/)
+
+### XBOX
+[![XBOX Card](https://card.exophase.com/1/3048811.png)](https://www.exophase.com/xbox/user/GottenElm151021/)
 
 ## 白金 (PlayStation)
 - 奖杯是一个用于纪录玩家游戏成就的系统，奖杯分为4种不同类型：铜奖杯、银奖杯、金奖杯以及白金奖杯
 - 奖杯的获取方式为玩家在游戏中完成特定的事件（如过关或者消灭指定数目的敌人等）或者达到游戏中的目的（如达成一定等级排名等），当玩家解锁所有其它奖杯后（不包括DLC内容新增的奖杯），就会获得白金奖杯
 - 部分规模较小的游戏没有白金奖杯
 ### 个数
-![image](d147anny_mosaic.png)
+![image](d147anny_mosaic.png){ width="600" } 
 
 - 17 (截止2024/5/30)
 ### 进度（达成时间）
