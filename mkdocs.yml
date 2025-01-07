@@ -34,11 +34,10 @@ nav:
   - 旅行: 
     - 关于旅行: Travel/travel.md
     - 日本印象: 
-      - 大阪: Travel/osaka.md
-    - 日本游推荐:
-      - 值得专程造访: Travel/3star.md
-      - 值得绕道前往: Travel/2star.md
-      - 值得驻足: Travel/1star.md
+      - 大阪府: Travel/osaka.md
+      - 京都府: Travel/kyoto.md
+      - 北海道: 
+        - 札幌: Travel/Hokkaido_Sapporo.md
   - 偶像: Idol/Idol.md
   - 游戏:
     - 关于游戏: Game/game.md
@@ -53,4 +52,4 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
-copyright: Copyright &copy; 2024 - 2024 张奕庆
+copyright: Copyright &copy; 2024 - 2025 张奕庆

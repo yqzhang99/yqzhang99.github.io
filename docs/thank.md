@@ -11,6 +11,8 @@ https://psnprofiles.com/
 
 https://gamercards.exophase.com/
 
+https://myplaystats.com/
+
 - PSN白金卡片
 
 https://plat.grayriver.dk/
