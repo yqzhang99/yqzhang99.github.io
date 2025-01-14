@@ -42,3 +42,5 @@
 * 特别：极品飞车：保时捷的荣耀 (2000)
 
 ![image](NFS/Need_for_Speed_-_Porsche_Unleashed_Coverart.png)
+
+[![PSN Card](https://card.psnprofiles.com/1/d147anny.png)](https://psnprofiles.com/d147anny)
