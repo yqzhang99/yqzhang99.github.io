@@ -1,12 +1,12 @@
 ## 游戏平台
 ### Steam
-[![Steam Card](https://card.exophase.com/1/3048822.png)](https://steamcommunity.com/id/1742353669/)
+[![Steam Card](https://card.exophase.com/1/3048822.png){ width="750" }](https://steamcommunity.com/id/1742353669/)
 
 ### PlayStation
-[![PSN Card](https://card.exophase.com/1/3048815.png)](https://www.exophase.com/psn/user/d147anny/)
+[![PSN Card](https://card.exophase.com/1/3048815.png){ width="750" }](https://www.exophase.com/psn/user/d147anny/)
 
 ### XBOX
-[![XBOX Card](https://card.exophase.com/1/3048811.png)](https://www.exophase.com/xbox/user/GottenElm151021/)
+[![XBOX Card](https://card.exophase.com/1/3048811.png){ width="750" }](https://www.exophase.com/xbox/user/GottenElm151021/)
 
 ## 白金 (PlayStation)
 ### 个数
